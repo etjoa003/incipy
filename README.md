@@ -1,5 +1,7 @@
 # incipy
-Ad hoc projects, side quests, archived etc
+Update 2021 May: this repository is effectively archived. It will no longer be updated.
+
+Ad hoc projects, side quests, archived projects etc
 
 Include
 
